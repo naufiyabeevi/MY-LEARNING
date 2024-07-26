@@ -43,7 +43,13 @@ public class practice4 {
                 System.out.println(hg);
 
                 String[] colors = {"blue", "white","yellow", "black"};
+                colors[0]="white";
                 System.out.println(colors.length);
+                System.out.println(colors[3]);
+                System.out.println(colors[0]);
+
+
+
 
             }
         }
