@@ -47,6 +47,10 @@ public class practice4 {
                 System.out.println(colors.length);
                 System.out.println(colors[3]);
                 System.out.println(colors[0]);
+                System.out.println("\n");
+                int [][]num5= {{7,8,9,5,4},{7,9,3,2,1}};
+                System.out.println(num5 [0][3]);
+                System.out.println(num5[0][3]*num5[1][3]);
 
 
 

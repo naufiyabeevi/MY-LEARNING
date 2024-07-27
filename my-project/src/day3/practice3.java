@@ -88,7 +88,7 @@ public class practice3 {
         System.out.println(Math.max(tu,yi));
         System.out.println(Math.min(tu,yi));
         System.out.println("5"+"5");
-        int randomNum = (int)(Math.random() * 101);
+        int randomNum = (int)(Math.random()*100) ;
         System.out.println(randomNum);
 
 
