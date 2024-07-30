@@ -27,7 +27,7 @@ public class Example3 {
 
 
     public static void main(String[] args) {
-        //Example3 obj = new Example3(); // Called default constructor
+        //day10.Example3 obj = new day10.Example3(); // Called default constructor
         Example3 o = new Example3(22); // Parameterised constructor
         System.out.println(o.age); // 22
 

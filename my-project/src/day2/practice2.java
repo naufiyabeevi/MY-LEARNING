@@ -20,7 +20,7 @@ public class practice2 {
         int number2 = 7;
         System.out.println(number1*number2);
         String firstname= "john";/*TWO NAME JOINING*/
-                String fathername= "ebraham";
+        String fathername= "ebraham";
         System.out.println("full name:" +firstname+fathername);
         int chemistry = 72;/*multiple variable*/
         int biology = 68;

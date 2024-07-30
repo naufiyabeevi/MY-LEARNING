@@ -1,6 +1,6 @@
 package day7;
 
-// Class Example6
+// Class day10.Example6
 public class Example6 {
 
 

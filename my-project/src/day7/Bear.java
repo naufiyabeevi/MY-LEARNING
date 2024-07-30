@@ -15,7 +15,7 @@ public class Bear {
         System.out.println("Bear running");
     }
 
-    int getAge(){ // return type int
+    int getAge() { // return type int
         return age; // returning age
     }
 
@@ -44,7 +44,7 @@ public class Bear {
         System.out.println("\n");
 
         Bear bearrrrrr3 = new Bear();                                     // heap memory bear3
-        System.out.println("Age of bear:"+bearrrrrr3.age);
+        System.out.println("Age of bear:" + bearrrrrr3.age);
         System.out.println("Color of bear:" + bearrrrrr3.color);
         bearrrrrr3.doRunning();
         bearrrrrr3.doSleeping();

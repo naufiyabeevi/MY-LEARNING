@@ -1,6 +1,6 @@
 package day3;
 
-public class practice3 {
+public class practice1 {
     public static void main(String[] args) {
         System.out.println("HELLO WORLD");//print hello world
         String letter="country";//print a string

@@ -1,6 +1,6 @@
 package day4;
 
-public class practice4 {
+public class practice1 {
     public static void main(String[] args) {
         //while loop
         int i = 5;
