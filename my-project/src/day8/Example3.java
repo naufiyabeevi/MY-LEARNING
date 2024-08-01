@@ -1,5 +1,7 @@
 package day8;
 
+
+
 public class Example3 {
 
     int age;// attribute
@@ -31,7 +33,7 @@ public class Example3 {
         Example3 o = new Example3(22); // Parameterised constructor
         System.out.println(o.age); // 22
 
-        Example3 ex = new Example3(7, 6, 5); // Parameterised constructor
+        Example3 ex = new Example3(4,7,8); // Parameterised constructor
         System.out.println(ex.b);
         System.out.println(ex.c);
         System.out.println(ex.d);

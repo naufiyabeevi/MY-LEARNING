@@ -5,7 +5,7 @@ package day9;
 import java.util.Scanner; // excplicitly imported
 
 
-//import java.lang.Math; java.lang package is by default(implicitly) impoerted by java.
+//import java.lang.Math; java.lang package is by default(implicitly) imported by java.
 public class Example7{
 
     public static void main(String[] args) {

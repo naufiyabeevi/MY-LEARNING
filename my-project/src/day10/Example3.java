@@ -4,7 +4,7 @@ package day10;
 public class Example3 {
 
     public static void main(String[] args) {
-        Student obj = new Student();
+        Students obj = new Students();
         System.out.println(obj.pi);//
         obj.areaOfCricle(2);
 
@@ -22,7 +22,7 @@ public class Example3 {
     }
 }
 
-class Student extends Mathematics{ // Methods and sttributes inherited from day10.Mathematics
+class Students extends Mathematics{ // Methods and sttributes inherited from day10.Mathematics
 
 }
 

@@ -4,8 +4,9 @@ public class practice {
     public static void main(String[] args) {
         //find the factorial of 7  using java program?
     int factorial = 1;
-     for(int h=7;h>=1;h--) {
-         factorial = factorial * h;
+     for(int h=1;h<=7;h++){
+            factorial = factorial * h;
+        }
          System.out.println(factorial);
          System.out.println("\n");
          //find a sum of first n natural numbers of 6?
@@ -18,4 +19,4 @@ public class practice {
          System.out.println(sum);
 
      }
-}}
+}
