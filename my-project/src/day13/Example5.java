@@ -9,16 +9,16 @@ public class Example5 {
         if (name.length() > 2) {
             System.out.println("Valid name");
         } else {
-            throw new MyCustomException("Not valid");
+            throw new StringLengthInvalid("Not valid");
         }
     }
 }
 
 
 //Creating custom exception
-class MyCustomException extends RuntimeException {
+class StringLengthInvalid extends RuntimeException {
 
-    public MyCustomException(String message) {
+    public StringLengthInvalid(String message) {
         super(message); // We are invoking parent class(RuntimeException) constructor
     }
 }
